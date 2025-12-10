@@ -1,0 +1,6 @@
+<launch>
+	<!-- 启动两只 turtlesim，各自位于不同命名空间 -->
+	<node name="turtlesim1" pkg="turtlesim" type="turtlesim_node" ns="turtle1" output="screen"/>
+	<node name="turtlesim2" pkg="turtlesim" type="turtlesim_node" ns="turtle2" output="screen"/>
+</launch>
+
