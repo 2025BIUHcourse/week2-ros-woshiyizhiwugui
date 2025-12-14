@@ -314,8 +314,6 @@ rosrun beginner_tutorials turtle_circle.py
 </launch>
 ```
 
-![截图 10：双 Turtlesim ](screenshot/screenshot_16.png)
-
 #### 2. 启动 launch 并控制多乌龟
 
 ```bash
@@ -346,6 +344,8 @@ angular:\
     z: 0.8"
 ```
 
+![截图 10：双 Turtlesim ](screenshot/screenshot_16.png)
+
 可视化：
 
 ```bash
@@ -356,8 +356,6 @@ rqt_plot /turtle1/cmd_vel/linear/x
 ![截图 11： rqt ](screenshot/screenshot_06.png)
 
 ![截图 12： plot](screenshot/screenshot_15.png)
-
-![截图 13： plot](screenshot/screenshot_14.png)
 
 ## 四、实验总结
 
