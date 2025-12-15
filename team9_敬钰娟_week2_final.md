@@ -54,6 +54,7 @@ tree ~/                    # 测试工具，查看家目录结构
 操作效果截图：
 
 ![截图 02：安装 tree 工具示例](screenshot/screenshot_13.png)
+![截图 02：安装 tree 工具示例](screenshot/screenshot_22.png)
 
 #### 3. 进程管理（ps 与 kill）
 
